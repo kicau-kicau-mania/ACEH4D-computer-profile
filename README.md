@@ -1,4 +1,4 @@
-"# 💻 ACEH4D - Computer & Hardware Store
+# 💻 ACEH4D - Computer & Hardware Store
 
 Selamat datang di repositori resmi **ACEH4D**. Kami adalah pusat penjualan perangkat komputer, komponen PC, aksesoris hardware, dan layanan perbaikan terpercaya yang berlokasi di Kota Bogor.
 
