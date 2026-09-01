@@ -43,4 +43,4 @@ Selamat datang di repositori resmi **ACEH4D**. Kami adalah pusat penjualan peran
 ## 🗺️ Peta Lokasi (Google Maps)
 
 Anda dapat menemukan lokasi toko kami langsung melalui tautan berikut:
-👉 [**Buka Lokasi ACEH4D di Google Maps**](https://www.google.com/maps/place/aceh4d/@-6.5919052,106.8113351,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69c56dddbe179b:0xa1c3c094a0477bc1!8m2!3d-6.5919052!4d106.8113351!16s%2Fg%2F11nvjpwgts?hl=id&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)"
+👉 [**Buka Lokasi ACEH4D di Google Maps**](https://www.google.com/maps/place/aceh4d/@-6.5919052,106.8113351,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69c56dddbe179b:0xa1c3c094a0477bc1!8m2!3d-6.5919052!4d106.8113351!16s%2Fg%2F11nvjpwgts?hl=id&entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D)
